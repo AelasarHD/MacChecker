@@ -1,13 +1,23 @@
 # MacChecker
 
-MacChecker - это приложение для macOS, которое отображает системную информацию и информацию о батарее вашего Mac.
+MacChecker, is a free open-source Mac Info checker! 
+You can use it, to test out used MacBooks before buying!
+Built on Python. Here, you can check system detailed information, 
+using only one app! CPU, GPU, Battery Cycles! And also export data!
 
-## Установка
+## Installation
 
-1. Загрузите файл `MacChecker.zip` из раздела [Releases](https://github.com/yourusername/MacChecker/releases).
-2. Распакуйте архив.
-3. Перетащите `MacChecker.app` в папку `Applications`.
+1. Download `MacChecker.zip` from [Releases](https://github.com/yourusername/MacChecker/releases).
+2. Unzip it.
+3. For Better Experience, move `MacChecker.app` into `Applications`.
 
-## Использование
+## Supported
 
-Запустите приложение `MacChecker.app` из папки `Applications`.
+- Both: **Intel** and **Apple Silicon** CPUs
+- All **MacBook Pro** (2006-2024)
+- All **MacBook Air** (2009-2024)
+- From macOS Sierra (10.12), up to macOS Sonoma (14+)
+
+## IMPORTANT
+
+- **More Macs will be added in the future.** Also, I'm planning to add iMac, Mac Mini support! 
