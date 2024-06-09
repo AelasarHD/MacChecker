@@ -11,7 +11,7 @@ using only one app! CPU, GPU, Battery Cycles! And also export data!
 
 ## Installation
 
-1. Download `MacChecker.zip` from [Releases](https://github.com/yourusername/MacChecker/releases).
+1. Download `MacChecker.zip` from [Releases](https://github.com/AelasarHD/MacChecker/releases).
 2. Unzip it.
 3. For Better Experience, move `MacChecker.app` into `Applications`.
 
