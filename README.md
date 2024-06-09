@@ -8,7 +8,8 @@ using only one app! CPU, GPU, Battery Cycles! And also export data!
 ![2024-06-09 19 29 35](https://github.com/AelasarHD/MacChecker/assets/84845779/2c742d47-84da-44c4-ba9c-b2b1091fba74)
 
 
-2. Unzip It
+
+
 
 ## Installation
 
