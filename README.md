@@ -18,7 +18,7 @@ using only one app! CPU, GPU, Battery Cycles! And also export data!
 ## Supported
 
 - Both: **Intel** and **Apple Silicon** CPUs
-- All **MacBook Pro** (2006-2024)
+- All **MacBook Pro** (2006-2021)
 - All **MacBook Air** (2009-2024)
 - From macOS Sierra (10.12), up to macOS Sonoma (14+)
 
