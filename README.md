@@ -21,3 +21,4 @@ using only one app! CPU, GPU, Battery Cycles! And also export data!
 ## IMPORTANT
 
 - **More Macs will be added in the future.** Also, I'm planning to add iMac, Mac Mini support! 
+
