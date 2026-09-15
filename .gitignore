@@ -1,0 +1,20 @@
+# py2app build artifacts
+build/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Packaged/exported app archives (release assets should be attached to GitHub Releases, not committed)
+*.zip
+*.dmg
+
+# Editor
+.vscode/
+.idea/
